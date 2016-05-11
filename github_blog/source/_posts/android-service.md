@@ -1,6 +1,8 @@
 
 ---
 title: 浅析Android Service
+date: 2016-05-10 13:56:49
+tags: Work
 ---
 **下面的图片是我在美图公司做一次分享的课程，通过PPT转换成图片。**
 
